@@ -1,0 +1,29 @@
+{
+  "name": "bossa-challenge",
+  "version": "1.0.0",
+  "description": "Repositório para upar cada etapa do desafio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MVIEIRAB/bossa-challenge.git"
+  },
+  "keywords": [],
+  "author": "Matheus V. B.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MVIEIRAB/bossa-challenge/issues"
+  },
+  "homepage": "https://github.com/MVIEIRAB/bossa-challenge#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.28"
+  }
+}
