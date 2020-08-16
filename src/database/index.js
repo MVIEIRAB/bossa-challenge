@@ -1,8 +1,9 @@
+require('dotenv/config')
 const mongoose = require('mongoose')
 
 mongoose.Promise = global.Promise
 
-mongoose.connect("mongodb+srv://dbadmin:62324883@cluster0.fuzqd.mongodb.net/<dbname>?retryWrites=true&w=majority", {
+mongoose.connect(process.env.DB_URL, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
     useCreateIndex: true
