@@ -1,6 +1,6 @@
 const Tools = require('../model/Tools')
 
-const ToolsController = class ToolsController {
+class ToolsController {
     async listAll(req, res) {
         try {
             const data = await Tools.find()
@@ -36,7 +36,7 @@ const ToolsController = class ToolsController {
 
     async deleteATool(req, res) {
         try {
-            const id = req.params.id
+            const { id } = req.params.id
             const response = await Tools.deleteOne({ '_id': id })
             res.status(204).json(response)
         } catch (error) {
