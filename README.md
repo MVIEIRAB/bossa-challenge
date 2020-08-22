@@ -8,9 +8,9 @@ cd bossa-challenge
 
 code .
 
-para a execução do projeto de um "npm install"
+para a instalação das dependências do projeto de um "npm install"
 
-após as dependências serem instaladas de um npm start para iniciar a aplicação.
+após as dependências serem instaladas inicie o servidor dando um "npm start" para iniciar a aplicação.
 
 vemos que no arquivo temos um arquivo DotEnv com um modelo exemplar das variaveis de ambiente utilizadas na aplicação.
 
