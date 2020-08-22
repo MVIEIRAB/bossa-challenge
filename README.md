@@ -1,6 +1,6 @@
 # bossa-challenge
 
-Para usar a aplicação faça os seguintes comandos,
+Para usar a aplicação escreva os seguintes comandos,
 
 git clone + (WEBURL do repo)
 
