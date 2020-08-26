@@ -9,10 +9,10 @@ const ToolsSchema = new mongoose.Schema({
     link: {
         type: String,
         required:true
-    
     },
     description: {
-        type: String
+        type: String,
+        required: true
     },
     tags: {
         type: Array
