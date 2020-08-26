@@ -4,12 +4,12 @@ const ToolsController = require('./controller/ToolsController')
 
 const router = express.Router()
 
-router.get('/listalltools', ToolsController.listAll)
+router.get('/list', ToolsController.listAll)
 
-router.get('/tools', ToolsController.listPerQuery)
+router.get('/', ToolsController.listPerQuery)
 
-router.post('/createtools', ToolsController.createATool)
+router.post('/create', ToolsController.createATool)
 
-router.delete('/tools/:id', ToolsController.deleteATool)
+router.delete('/:id', ToolsController.deleteATool)
 
 module.exports = router

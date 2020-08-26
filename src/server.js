@@ -10,6 +10,6 @@ app.use(cors())
 app.use(express.json())
 app.use(express.urlencoded({ extended: false }))
 
-app.use('/', router)
+app.use('/tools', router)
 
 app.listen(process.env.PORT || 3000, () => console.log(`server has been iniciated`))

@@ -12,8 +12,8 @@ class ToolsController {
 
     async listPerQuery(req, res) {
         try {
-            const querystring = req.query
-            const data = await Tools.find(querystring)
+            const query = req.query
+            const data = await Tools.find(query)
 
             res.status(200).json(data)
 
