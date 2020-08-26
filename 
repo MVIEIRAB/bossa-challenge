@@ -1,0 +1,162 @@
+[33mcommit acd8f21291d1225fa85cd6ac026ff6d2a7575ac4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: b9c8b38 a93a7dd
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Tue Aug 25 22:08:45 2020 -0300
+
+    Merge branch 'master' of https://github.com/MVIEIRAB/bossa-challenge
+
+[33mcommit b9c8b382c7137f43e1a6e0b3849060c99ca06980[m
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Tue Aug 25 22:07:50 2020 -0300
+
+    refatorando codigo
+
+[33mcommit a93a7dde2551e3ace9165518e33db4eab11f9642[m
+Author: Matheus V. B <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Sat Aug 22 13:46:14 2020 -0300
+
+    Update README.md
+
+[33mcommit b5127c34b9cb5bde98c4016de0790e56a8af7607[m
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Sat Aug 22 12:29:05 2020 -0300
+
+    escrevendo instruções para uso da aplicação
+
+[33mcommit aa1ceabd43161544b315075873d3844507ae1cf0[m
+Author: mvieirinhaa@gmail.com <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Sat Aug 22 12:04:54 2020 -0300
+
+    rafatorando codigo
+
+[33mcommit 1f2df2681b6fdcd1523cc822105e89060be811ff[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Tue Aug 18 22:07:40 2020 -0300
+
+    apagando arquivos desnecessarios
+
+[33mcommit f5bff7be485485fd9881c5812d3b52460388f0c8[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Tue Aug 18 00:08:00 2020 -0300
+
+    exemplo de variaveis de ambiente
+
+[33mcommit 2dd36769cad49ae038e539e12844ad17c84a50c2[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Mon Aug 17 22:48:05 2020 -0300
+
+    retirando linhas desenecessarias
+
+[33mcommit bbc81c0dae1ac5edaec105d933828f5a00f11c36[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:51:27 2020 -0300
+
+    alterando e incluindo propriedades dentro da aplicação
+
+[33mcommit be417a021db220bf4950b9461dfb1cdb8e1657a1[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:48:56 2020 -0300
+
+    adiciondo propriedade do plugin CORS
+
+[33mcommit 9655e507cf0830631ec8ef47871eaa65903719c8[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:46:50 2020 -0300
+
+    subindo alterações
+
+[33mcommit a4517b53dc332ea25c12b79fd5aab811df19f316[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:45:59 2020 -0300
+
+    alterando dados dentro do package.json
+
+[33mcommit 9db5105a4031ab89003f9068371feedfd3e00b51[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:44:48 2020 -0300
+
+    adicionando plugin CORS
+
+[33mcommit a6d5ec53f646213ba295e97ed912dbb452572710[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:43:46 2020 -0300
+
+    alterando variavel de ambiente
+
+[33mcommit 3180e2ba6d61bcd928ce5a9d9ee69896a9ae1d99[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:37:47 2020 -0300
+
+    adicionando informações necessarias para o funcionamento
+
+[33mcommit c45d480a8c5e964195bfc18f11fd569177d6f240[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:36:06 2020 -0300
+
+    criando documentação da aplicação
+
+[33mcommit 41630b534e9baada95aac099bab89f043f7fb8c8[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Sun Aug 16 20:35:35 2020 -0300
+
+    criando as variaveis de ambiente
+
+[33mcommit 8ebf295fe5d4b5310fee44e18c095eef2f9d9af4[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 02:12:31 2020 -0300
+
+    orgizando codigo
+
+[33mcommit 6be402e87a93c7e99f8614f48fee33b586eb20b6[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 02:12:05 2020 -0300
+
+    criando arquivo onde ficarão os testes da api
+
+[33mcommit 85de390c4342dc7b41bb4eb593bb2c39a28223c0[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 00:43:38 2020 -0300
+
+    refaturando o codigo
+
+[33mcommit 2839a47d257ebe6c3ad1816af874877532f79408[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 00:43:13 2020 -0300
+
+    tornando o arquivo de execução menos responsivo e mais organizado
+
+[33mcommit 3b8ecf33f3513a9e0f5c99a7313deb9556013101[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 00:42:42 2020 -0300
+
+    criando arquivo para gerenciar as rotas da aplicação
+
+[33mcommit 42036a5fe28eaa5aabd7974ecf3dbf1016ec6f09[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Fri Aug 14 00:41:57 2020 -0300
+
+    refaturando codigo e organizando as rotas
+
+[33mcommit d3a90b05b56274609c0f28d5ae72f6a9aebca877[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Tue Aug 11 23:08:18 2020 -0300
+
+    estruturando a aplicação e criando rotas
+
+[33mcommit bd62f98619b3f7d733b03ede8d1fd4dec74094dc[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Tue Aug 11 13:41:22 2020 -0300
+
+    criando instância do servidor
+
+[33mcommit 4c54466588780000e3fedf04c677f2c27f9583df[m
+Author: matheus <mvieirinhaa@gmail.com>
+Date:   Tue Aug 11 13:38:21 2020 -0300
+
+    iniciando projeto
+
+[33mcommit 2a6993fc4a0e2ee5fb01c9103b3c1072af6a5c63[m
+Author: Matheus V. B <57693776+MVIEIRAB@users.noreply.github.com>
+Date:   Tue Aug 11 13:27:23 2020 -0300
+
+    Initial commit

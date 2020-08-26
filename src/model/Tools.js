@@ -25,5 +25,4 @@ const ToolsSchema = new mongoose.Schema({
 })
 
 const Tools = mongoose.model('Tools', ToolsSchema)
-
 module.exports = Tools
